@@ -6,10 +6,13 @@ Software Engineer
 
 I am a full-stack developer based in Paris with a passion for building digital solutions and coding. I am eager to learn new things, and already taught myself a lot of technologies / frameworks. I am always open to new opportunities in France or abroad. Currently, I am working as the Chief Technical Officer of a startup called TCHEKER. I also recently published my first personal project called Sinta, a mobile app made for couples.
 
-*   🌍  I'm based in Paris
-*   🖥️  See my portfolio at [antonin.dev](http://antonin.dev)
-*   ✉️  You can contact me at [antonin.pire@gmail.com](mailto:antonin.pire@gmail.com)
-*   🚀  I'm currently working on [Sinta](http://sinta.app)### Skills 
+* 🌍  I'm based in Paris
+* 🖥️  See my portfolio at [antonin.dev](http://antonin.dev)
+* ✉️  You can contact me at [antonin.pire@gmail.com](mailto:antonin.pire@gmail.com)
+* 🚀  I'm currently working on [Sinta](http://sinta.app)
+
+### Skills
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -42,12 +45,16 @@ I am a full-stack developer based in Paris with a passion for building digital s
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
-                    
+
 ### Socials
-                  
-                  
- <p align="left">
-                          
-                      <a href="https://www.github.com/antoninpire" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/antonin-pire" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/antoninpire/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=antoninpire&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/antoninpire/Natflix-Front" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=antoninpire&repo=Natflix-Front&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/antoninpire/Natflix-Back" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=antoninpire&repo=Natflix-Back&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<p align="left"> <a href="https://www.github.com/antoninpire" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/antonin-pire" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/antoninpire/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=antoninpire&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/antoninpire/Natflix-Front" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=antoninpire&repo=Natflix-Front&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/antoninpire/Natflix-Back" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=antoninpire&repo=Natflix-Back&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
